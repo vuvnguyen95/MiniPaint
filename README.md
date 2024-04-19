@@ -1,6 +1,5 @@
 ### README.md
 
-```markdown
 # Mini Paint App
 
 ## Introduction
